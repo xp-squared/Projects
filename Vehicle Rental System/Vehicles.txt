@@ -1,0 +1,50 @@
+Ford Mustang 2002
+Toyota Camry 2018
+Honda Civic 2015
+BMW 3 Series 2011
+Chevrolet Silverado 2019
+Tesla Model 3 2020
+Subaru Outback 2017
+Nissan Altima 2016
+Audi A4 2014
+Mercedes-Benz C-Class 2009
+Dodge Ram 1500 2012
+Jeep Wrangler 2008
+Volkswagen Jetta 2010
+Hyundai Sonata 2013
+Ford F-150 2005
+Porsche 911 2016
+Mazda CX-5 2018
+Lexus RX 350 2015
+Volvo XC90 2019
+Acura MDX 2017
+Honda Accord 2007
+Buick LaCrosse 2014
+Ford Focus 2010
+Kia Optima 2019
+Toyota Corolla 2012
+Mini Cooper 2011
+Mitsubishi Lancer 2009
+Chrysler 300 2018
+Chevrolet Impala 2016
+Tesla Model-S 2015
+Subaru Forester 2020
+Cadillac Escalade 2013
+GMC Sierra 2017
+Fiat 500 2015
+Infiniti Q50 2018
+Jaguar XF 2012
+BMW 5-Series 2014
+Land-Rover Discovery 2016
+Mercedes-Benz E-Class 2008
+Nissan Sentra 2019
+Honda CR-V 2018
+Audi Q5 2019
+Toyota Highlander 2015
+Ford Mustang 2002
+Ram 2500 2020
+Hyundai Tucson 2017
+Chevrolet Tahoe 2012
+Volkswagen Passat 2011
+Lexus IS-300 2010
+BMW 7 Series 2017
