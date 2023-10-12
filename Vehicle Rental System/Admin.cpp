@@ -26,7 +26,7 @@ bool Admin::login(const string& username, const string& password) {
 
 void Admin::addCar() {
 	cout << "\nAdding a new car to the fleet." << endl;
-	// Your business logic here NOT DONE
+	// Your business logic here NOT DONE, USE COMPOSITON
 }
 
 void Admin::removeCar() {
