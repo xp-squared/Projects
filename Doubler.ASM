@@ -1,4 +1,4 @@
-
+; https://schweigi.github.io/assembler-simulator/ for testing
 
 start:
 
